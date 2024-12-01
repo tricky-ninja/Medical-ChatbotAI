@@ -1,0 +1,5 @@
+ctransformers
+sentence-transformers
+chromadb
+flask
+langchain
